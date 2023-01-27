@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate / Kasia / Katarzyna.</h1>
 
-- 🔭 I’m currently **between works.**
-
-- 📫 How to reach me **kat89t [at] gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/katarzyna-tatomir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katarzyna-tatomir" height="30" width="40" /></a>
